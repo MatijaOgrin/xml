@@ -5,16 +5,15 @@
   <avtor id="17.)" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="1939" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="1951" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="adam.michnik" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="adam.zagajevski" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="adolf.malovrh" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="albert.camus" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="albin.gnidovec" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="aleksander.s..puškin" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="alenka.meglič" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="alenka.puhar" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="alex.jerman" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="alexander.jerman" ime="dodajime" priimek="dodajpriimek"/>
+  <avtor id="michnik.adam" ime="Adam" priimek="Michnik"/>
+  <avtor id="zagajevski.adam" ime="Adam" priimek="Zagajevski"/>
+  <avtor id="malovrh.adolf" ime="Adolf" priimek="Malovrh"/>
+  <avtor id="camus.albert" ime="Albert" priimek="Camus"/>
+  <avtor id="gnidovec.albin" ime="Albin" priimek="Gnidovec"/>
+  <avtor id="puskin.aleksander.s" ime="Aleksander Sergejevič" priimek="Puškin"/>
+  <avtor id="meglic.alenka" ime="Alenka" priimek="Meglič"/>
+  <avtor id="puhar.alenka" ime="Alenka" priimek="Puhar"/>
+  <avtor id="jerman.alexander" ime="Alexander" priimek="Jerman"/>
   <avtor id="aleš.maver" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="alojz.gradnik" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="alojz.leon.legvart" ime="dodajime" priimek="dodajpriimek"/>
@@ -306,7 +305,8 @@
   <avtor id="jurij.p..emeršič" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="jurij.senegačnik" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="justin.stanovnik" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="kai.ambosprofesor.dr..kai.ambos.predava.kazensko.pravo" ime="dodajime" priimek="dodajpriimek"/>
+  <avtor id="kai.ambosprofesor.dr..kai.ambos.predava.kazensko.pravo" ime="dodajime"
+    priimek="dodajpriimek"/>
   <avtor id="kajetan.gantar" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="kardinal.j..ratzinger" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="kardinal.miloslav.vlk" ime="dodajime" priimek="dodajpriimek"/>
@@ -326,7 +326,8 @@
   <avtor id="konstantinos.kavafis" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="koren" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="lana.olup" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="le.concept.du.jacobinisme.dans.la.philosophie.politique.française.–.str..3–7)" ime="dodajime" priimek="dodajpriimek"/>
+  <avtor id="le.concept.du.jacobinisme.dans.la.philosophie.politique.française.–.str..3–7)"
+    ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="lenart.rihar" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="leon.marc" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="leopold.žužek" ime="dodajime" priimek="dodajpriimek"/>
@@ -342,7 +343,8 @@
   <avtor id="lojze.žabkar" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="lojzka.frančič.-.berden" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="ludve.potokar" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="ludve.potokar:.takole.ob.samotnih.trenutkih.(1948)" ime="dodajime" priimek="dodajpriimek"/>
+  <avtor id="ludve.potokar:.takole.ob.samotnih.trenutkih.(1948)" ime="dodajime"
+    priimek="dodajpriimek"/>
   <avtor id="mag..boris.mlakar" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="maja.a..ficko" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="maja.a..smolej.–.ficko" ime="dodajime" priimek="dodajpriimek"/>
@@ -605,7 +607,9 @@
   <avtor id="ljubljanski.nadškof" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="p..bazilij" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="p..pavle.jakop" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="primerjalno.pravo.in.mednarodno.kazensko.pravo.na.univerzi.georga-augusta.v.göttingenu.in.je.sodnik.na.deželnem.sodišču.v.göttingenu." ime="dodajime" priimek="dodajpriimek"/>
+  <avtor
+    id="primerjalno.pravo.in.mednarodno.kazensko.pravo.na.univerzi.georga-augusta.v.göttingenu.in.je.sodnik.na.deželnem.sodišču.v.göttingenu."
+    ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="roj..velikonja" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="zvezek.15" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="človek.za.vse.čase" ime="dodajime" priimek="dodajpriimek"/>
