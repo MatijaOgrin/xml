@@ -14,36 +14,34 @@
   <avtor id="meglic.alenka" ime="Alenka" priimek="Meglič"/>
   <avtor id="puhar.alenka" ime="Alenka" priimek="Puhar"/>
   <avtor id="jerman.alexander" ime="Alexander" priimek="Jerman"/>
-  <avtor id="aleš.maver" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="alojz.gradnik" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="alojz.leon.legvart" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="alojz.uran" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="alojzij.ambrožič" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="alojzij.pozelnik" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="alojzij.uran" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="alojzij.šuštar" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="ana.božič" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="ana.gaberščik" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="ana.gabrščik" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="andreas.kilb" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="andrej.glavan" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="andrej.herman" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="andrej.lenarčič" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="andrej.meglič" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="andrej.mihevc" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="andrej.poznič" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="andrej.rot" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="andrej.vovko" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="andrijan.lah" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="angelika.nussberger" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="anica.benčina" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="anica.kralj" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="anica.razpotnik" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="anica.štih" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="anka.koman" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="anonymus" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="anton.avbelj" ime="dodajime" priimek="dodajpriimek"/>
-  <avtor id="anton.bogataj" ime="dodajime" priimek="dodajpriimek"/>
+  <avtor id="maver.ales" ime="Aleš" priimek="Maver"/>
+  <avtor id="gradnik.alojz" ime="Alojz" priimek="Gradnik"/>
+  <avtor id="legvart.alojz.leon" ime="Alojz Leon" priimek="Legvart"/>
+  <avtor id="uran.alojz" ime="Alojz" priimek="Uran"/>
+  <avtor id="ambrozic.alojzij" ime="Alojzij" priimek="Ambrožič"/>
+  <avtor id="pozelnik.alojzij" ime="Alojzij" priimek="Pozelnik"/>
+  <avtor id="sustar.alojzij" ime="Alojzij" priimek="Šuštar"/>
+  <avtor id="bozic.ana" ime="Ana" priimek="Božič"/>
+  <avtor id="gaberscik.ana" ime="Ana" priimek="Gaberščik"/>
+  <avtor id="kilb.andreas" ime="Andreas" priimek="Kilb"/>
+  <avtor id="glavan.andrej" ime="Andrej" priimek="Glavan"/>
+  <avtor id="herman.andrej" ime="Andrej" priimek="Herman"/>
+  <avtor id="lenarcic.andrej" ime="Andrej" priimek="Lenarčič"/>
+  <avtor id="meglic.andrej" ime="Andrej" priimek="Meglič"/>
+  <avtor id="mihevc.andrej" ime="Andrej" priimek="Mihevc"/>
+  <avtor id="poznic.andrej" ime="Andrej" priimek="Poznič"/>
+  <avtor id="rot.andrej" ime="Andrej" priimek="Rot"/>
+  <avtor id="vovko.andrej" ime="Andrej" priimek="Vovko"/>
+  <avtor id="lah.andrijan" ime="Andrijan" priimek="Lah"/>
+  <avtor id="nussberger.angelika" ime="Angelika" priimek="Nussberger"/>
+  <avtor id="bencina.anica" ime="Anica" priimek="Benčina"/>
+  <avtor id="kralj.anica" ime="Anica" priimek="Kralj"/>
+  <avtor id="razpotnik.anica" ime="Anica" priimek="Razpotnik"/>
+  <avtor id="stih.anica" ime="Anica" priimek="Štih"/>
+  <avtor id="koman.anka" ime="Anka" priimek="Koman"/>
+  <avtor id="anonymus" ime="Anonymus"/>
+  <avtor id="avbelj.anton" ime="Anton" priimek="Avbelj"/>
+  <avtor id="bogataj.anton" ime="Anton" priimek="Bogataj"/>
   <avtor id="anton.drobnič" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="anton.gnidovec" ime="dodajime" priimek="dodajpriimek"/>
   <avtor id="anton.jamnik" ime="dodajime" priimek="dodajpriimek"/>
